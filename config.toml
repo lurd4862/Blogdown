@@ -1,8 +1,9 @@
 ## Basic Configuration
 baseurl = "/"
 languageCode = "en"
-
+relativeurls = true
 theme = "hyde-hyde"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 ## Hugo Built-in Features
 # disqusShortname = ""
