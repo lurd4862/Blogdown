@@ -13,7 +13,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 ## Site Settings
 [params]
     author = "Stefan"
-    title = "Title"
+    title = "StatsLab"
     # description = "..."
     authorimage = "/img/logo.jpg"
     dateformat = "Jan 1, 2006"
@@ -22,9 +22,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 ## Social Accounts
 [params.social]
-    github = "https://github.com/lurd4862"
-    linkedin = "www.linkedin.com/in/stefan-fouchè-8a126711a"
-    email = "stefan.fouche.ltd@gmail.com"
+    github = "lurd4862"
+    linkedin = "stefan-fouchè-8a126711a"
+    email = "stefan.fouche.ltd@gmail.com?"
 
 ## Main Menu
 [[menu.main]]
