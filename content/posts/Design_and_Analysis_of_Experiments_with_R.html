@@ -13,7 +13,7 @@ output: html_document
 <p>Based on the work:<br />
 <em>Lawson, John. Design and Analysis of Experiments with R. Chapman and Hall/CRC, 20141217. VitalBook file.</em></p>
 <div class="figure">
-<img src="Pictures/Intro.png" />
+<img src="/Pictures/Intro.png" />
 
 </div>
 </div>
@@ -40,7 +40,7 @@ output: html_document
 <p>DoE is used to distinguish between correlation and causality in a way that is cost efficient and accounts for most confounding effects and lurker effects.</p>
 <p>Sequential strategies are used to determine what factors are most influencial and after that the changes in factors are quantified until finally optimal operating conditions are determined (most appropriate factor states to accomplish maximum treatment effect)</p>
 <p><em>DoE Workflow</em></p>
-<p><img src="Pictures/DoE_workflow.PNG" /> An effective experimental design will ensure the following:</p>
+<p><img src="/Pictures/DoE_workflow.PNG" /> An effective experimental design will ensure the following:</p>
 <ul>
 <li>A <em>clear objective</em><br />
 </li>
@@ -79,7 +79,7 @@ output: html_document
 <h1>When to use which design</h1>
 <p>Let’s summarise the theory to understand when we should use which experimental design:</p>
 <div class="figure">
-<img src="Pictures/Which_design.png" />
+<img src="/Pictures/Which_design.PNG" />
 
 </div>
 <p>Clearly our very first split depends on what we wish to investigate, the variances or the effects of different factors.</p>
@@ -118,7 +118,7 @@ output: html_document
 <div id="completely-randomized-design-crd" class="section level3">
 <h3>Completely randomized design (CRD)</h3>
 <div class="figure">
-<img src="Pictures/CRD.png" />
+<img src="/Pictures/CRD.PNG" />
 
 </div>
 <p>In completely randomized designs we consider only a single factor. For each possible state of this factor we have a treatment or group. The total number of experimental units n is equal to the number of treatments * the number of replications in of each treatment.</p>
@@ -189,7 +189,7 @@ bread_example %&gt;% lm(formula = height~time) %&gt;% summary</code></pre>
 ## F-statistic: 4.602 on 2 and 9 DF,  p-value: 0.042</code></pre>
 <p>So we can see the lm() function did not derive a coefficient for the time = 35 factor level. In this call the intercept is interpreted as <span class="math inline">\(\mu + \tau_1\)</span> and the other factor levels are all evaluated relative to this intercept:</p>
 <div class="figure">
-<img src="Pictures/lm_coeffiecients.png" />
+<img src="/Pictures/lm_coeffiecients.PNG" />
 
 </div>
 <p>Obviously from this equation it’s easy to derive e.g. <span class="math inline">\(\mu + \tau_2\)</span> by adding the 1st and second coefficients together…</p>
@@ -323,7 +323,7 @@ lambda</code></pre>
 <p>** When variation is relative to the mean observation within each treatment **</p>
 <p>An alternative to box-cox power transformation</p>
 <div class="figure">
-<img src="Pictures/Distributional_transformations.png" />
+<img src="/Pictures/Distributional_transformations.png" />
 
 </div>
 <p>OK, well let’s use the lognormal transformation and see the effect on the anova:</p>
