@@ -36,4 +36,4 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "About"
     identifier = "about"
     weight = 200
-    url = "/about/"
+    url = "/about_me/"
