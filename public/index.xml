@@ -23,6 +23,24 @@ It makes use of a variety of open source projects including:
     </item>
     
     <item>
+      <title>A Soft Introduction to Machine Learning</title>
+      <link>/posts/intro_machine_learning/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/intro_machine_learning/</guid>
+      <description>Important machine learning libraries I created this document to serve as an easy introduction to basic machine learning methods. It is aimed at individuals who have some basic understanding of R and a basic understanding of mathematics.
+To run through this course Yourself you will need to clone the repository:
+https://github.com/lurd4862/Machine_learning_course_work.git
+You will also need these packages installed:
+- tidyr
+- caTools
+- ggplot2
+- purrr
+- dplyr
+- data.table</description>
+    </item>
+    
+    <item>
       <title>Design and Analysis of Experiments with R</title>
       <link>/posts/design_and_analysis_of_experiments_with_r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
