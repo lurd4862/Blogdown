@@ -28,16 +28,7 @@ It makes use of a variety of open source projects including:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/posts/intro_machine_learning/</guid>
-      <description>Important machine learning libraries I created this document to serve as an easy introduction to basic machine learning methods. It is aimed at individuals who have some basic understanding of R and a basic understanding of mathematics.
-To run through this course Yourself you will need to clone the repository:
-https://github.com/lurd4862/Machine_learning_course_work.git
-You will also need these packages installed:
-- tidyr
-- caTools
-- ggplot2
-- purrr
-- dplyr
-- data.table</description>
+      <description>Important machine learning libraries Future additions  Part 1 - Data Preprocessing Part 2 - Regression Simple Linear Regression Multiple linear regression Polynomial Regression Support vector machine regression Regression Trees Random forest regression A more robust application of machine learning regressions (random forest)  Part 3 - Clustering K-means  Part 4 - Dimensionality Reduction Create PCA  Part 5 - Reinforced Learning Multi-Armed Bandit Problem Upper Confidence Bound (UCB) method Improve results using UCB Visualize the model add selection  Part 6 - Parameter Grid Search, Cross-validation and Boosting Grid Search and Parameter Tuning XGBoost    Important machine learning libraries I created this document to serve as an easy introduction to basic machine learning methods.</description>
     </item>
     
     <item>

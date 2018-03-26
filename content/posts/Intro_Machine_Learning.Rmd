@@ -2,7 +2,9 @@
 title: "A Soft Introduction to Machine Learning"
 author: "Stefan Fouche"
 date: "06 January 2017"
-output: html_document
+output:
+  blogdown::html_page:
+    toc: true
 ---
 
 ## Important machine learning libraries
