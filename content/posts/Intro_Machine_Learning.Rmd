@@ -1,7 +1,18 @@
 ---
 title: "A Soft Introduction to Machine Learning"
 author: "Stefan Fouche"
-date: "06 January 2017"
+date: 2017-01-06
+slug: intro-machine-learning
+categories:
+  - R
+tags:
+  - regression
+  - machine_learning
+  - clustering
+  - dimensionality_reduction
+  - reinforcement_learning
+  - Cross-validation
+  - Grid_search
 output:
   blogdown::html_page:
     toc: true

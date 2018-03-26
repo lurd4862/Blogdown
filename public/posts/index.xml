@@ -6,25 +6,17 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Mon, 26 Mar 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>A Soft Introduction to Machine Learning</title>
-      <link>/posts/intro_machine_learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/intro_machine_learning/</guid>
-      <description>Important machine learning libraries Future additions  Part 1 - Data Preprocessing Part 2 - Regression Simple Linear Regression Multiple linear regression Polynomial Regression Support vector machine regression Regression Trees Random forest regression A more robust application of machine learning regressions (random forest)  Part 3 - Clustering K-means  Part 4 - Dimensionality Reduction Create PCA  Part 5 - Reinforced Learning Multi-Armed Bandit Problem Upper Confidence Bound (UCB) method Improve results using UCB Visualize the model add selection  Part 6 - Parameter Grid Search, Cross-validation and Boosting Grid Search and Parameter Tuning XGBoost    Important machine learning libraries I created this document to serve as an easy introduction to basic machine learning methods.</description>
-    </item>
-    
-    <item>
       <title>Data Science Workflow</title>
-      <link>/posts/data_science_workflow/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>/posts/data-science-workflow/</link>
+      <pubDate>Mon, 26 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>/posts/data_science_workflow/</guid>
+      <guid>/posts/data-science-workflow/</guid>
       <description>Why it matters When working with recurring clients and projects together with tight deadlines it is easy to cut corners or forget good practice.
 Here are the top reasons why a data science workflow is vital:
  Work is well documented
@@ -38,13 +30,22 @@ Here are the top reasons why a data science workflow is vital:
     <item>
       <title>Design and Analysis of Experiments with R</title>
       <link>/posts/design_and_analysis_of_experiments_with_r/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>/posts/design_and_analysis_of_experiments_with_r/</guid>
       <description>Introduction This document will cover in depth the use of DoE experiments in R! We will focus our attention to measuring treatment effects, not variances.
 Based on the work:
 Lawson, John. Design and Analysis of Experiments with R. Chapman and Hall/CRC, 20141217. VitalBook file.
   Definitions  Experiment (also called a Run) is an action where the experimenter changes at least one of the variables being studied and then observes the effect of his or her actions(s).</description>
+    </item>
+    
+    <item>
+      <title>A Soft Introduction to Machine Learning</title>
+      <link>/posts/intro-machine-learning/</link>
+      <pubDate>Fri, 06 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/intro-machine-learning/</guid>
+      <description>Important machine learning libraries Future additions  Part 1 - Data Preprocessing Part 2 - Regression Simple Linear Regression Multiple linear regression Polynomial Regression Support vector machine regression Regression Trees Random forest regression A more robust application of machine learning regressions (random forest)  Part 3 - Clustering K-means  Part 4 - Dimensionality Reduction Create PCA  Part 5 - Reinforced Learning Multi-Armed Bandit Problem Upper Confidence Bound (UCB) method Improve results using UCB Visualize the model add selection  Part 6 - Parameter Grid Search, Cross-validation and Boosting Grid Search and Parameter Tuning XGBoost    Important machine learning libraries I created this document to serve as an easy introduction to basic machine learning methods.</description>
     </item>
     
   </channel>

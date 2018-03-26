@@ -1,8 +1,13 @@
 ---
 title: "Data Science Workflow"
 author: "stefan"
-date: "3/26/2018"
+date: 2018-03-26
 output: html_document
+slug: Data-Science-Workflow
+categories:
+  - General
+tags:
+  - Workflow
 ---
 
 ```{r setup, include=FALSE}

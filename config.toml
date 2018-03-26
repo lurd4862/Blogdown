@@ -14,9 +14,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
     author = "Stefan"
     title = "StatsLab"
-    # description = "..."
-    authorimage = "/img/logo.jpg"
     dateformat = "Jan 1, 2006"
+    # description = "..."
+    #authorimage = "/img/stats.png"
+    #authorimage = "/img/8020logo.png"
+    authorimage = "/img/logo.jpg"
     highlightjs = true
     # highlightjsstyle = "github"
 
@@ -37,3 +39,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     identifier = "about"
     weight = 200
     url = "/about_me/"
+[[menu.main]]
+    name = "Search by tag"
+    identifier = "tags"
+    weight = 200
+    url = "/tags/"
