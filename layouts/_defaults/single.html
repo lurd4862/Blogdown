@@ -1,0 +1,16 @@
+{{ define "header" -}}
+    {{ partial "header.html" . }}
+{{- end -}}
+
+{{ define "content" -}}
+    {{ partial "post_content.html" . }}
+{{- end -}}
+
+{{ define "disqus_thread" -}}
+    {{ partial "post_disqus.html" . }}
+{{- end -}}
+
+
+{{ define "footer" -}}
+    {{ partial "post_footer.html" . }}
+{{- end -}}
